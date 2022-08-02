@@ -3,3 +3,5 @@ bluff
 pandas
 scikit-learn
 streamlit==0.62.0
+protobuf==3.20
+click<=8.04
